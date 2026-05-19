@@ -40,6 +40,9 @@ I'm a **Fullstack Developer** and **Networking Enthusiast** dedicated to buildin
   <a href="https://instagram.com/m.farid.hafizh" target="blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://wa.me/6281348812407" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
