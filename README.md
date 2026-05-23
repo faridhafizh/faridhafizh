@@ -1,6 +1,10 @@
 # Hi there, I'm Farid Hafizh 👋
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faridhafizh&label=Profile%20views&color=0e75b6&style=flat" alt="faridhafizh" />
+  &nbsp;
+  <a href="https://github.com/sponsors/faridhafizh">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=github-sponsors" alt="Sponsor faridhafizh" />
+  </a>
 </p>
 
 ### 👨‍💻 About Me
