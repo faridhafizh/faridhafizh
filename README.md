@@ -1,6 +1,6 @@
 # Hi there, I'm Farid Hafizh 👋
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=faridhafizh&label=Profile%20views&color=0e75b6&style=flat" alt="faridhafizh" />
+  <img src="https://hits.sh/github.com/faridhafizh.svg?label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/sponsors/faridhafizh">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=github-sponsors" alt="Sponsor faridhafizh" />
@@ -33,6 +33,7 @@ I'm a **Fullstack Developer** and **Networking Enthusiast** dedicated to buildin
 <p align="center">
   <img width="53.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridhafizh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridhafizh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=faridhafizh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
