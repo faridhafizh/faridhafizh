@@ -27,16 +27,6 @@ I'm a **Fullstack Developer** and **Networking Enthusiast** dedicated to buildin
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="53.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridhafizh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridhafizh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/m-farid-hafizh" target="blank">
