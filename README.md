@@ -31,8 +31,9 @@ I'm a **Fullstack Developer** and **Networking Enthusiast** dedicated to buildin
 <p align="center">
   <img width="53.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridhafizh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridhafizh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=faridhafizh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 ---
 
